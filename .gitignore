@@ -1,3 +1,5 @@
+celeba_gan/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
